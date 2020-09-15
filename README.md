@@ -1,6 +1,6 @@
 # Animated Pie Chart
 
-That's the complete source code with comments from the video tutorial [Menu Animation with Vue](https://youtu.be/UieAQARU1Ho)
+That's the complete source code with comments from the video tutorial [Pie Chart with Vue](https://youtu.be/UieAQARU1Ho)
 
 A reusable Pie chart component, where you can dynamically provide data. And, of course, with a nice animation, if the pie chart is rendered.
 
